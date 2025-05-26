@@ -1,2 +1,2 @@
 # SALoc-Editor
-SALocalization Editor (SALE)
+Steam Achievement Localization Editor
